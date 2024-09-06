@@ -1,19 +1,8 @@
-Olá! Me chamo Wallisson Pereira
-🌱 Studying programming for DEV-FullStack.
-📫 Contact me on email : wallissonpereira100@gmail.com
--->
+<h1>📚 Infinity School</h1><br>
+<h3>Olá e bem-vindo ao repositório da Infinity School! Este é o seu ponto de partida para explorar e aprender com os materiais e projetos desenvolvidos durante o curso de programação da Infinity School. Aqui você encontrará um conjunto diversificado de recursos que cobrem desde fundamentos essenciais até técnicas avançadas em desenvolvimento FullStack.</h3><br>
 
-<div align="center">
-  <h2 align = "left">Analytics: <img src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-graficos-0.gif" width="50px"> </h2>
-  <a href="https://github.com/WalliPereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalliPereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalliPereira&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<div style="display: inline_block"><br><br>
-
-<h2 align="left"> Languages: <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width="55px"> </h2>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GitHub"/></code>
-<code><img width="40px" src="https://i.imgur.com/LMX3yhx.png" title = "Visual Studio Code"/></code>
+<h1>🚀 O que você vai encontrar aqui:</h1><br>
+<h3>Recursos Didáticos: Desde conceitos básicos até técnicas avançadas.
+Projetos Práticos: Exemplos e exercícios para consolidar o aprendizado.
+Desafios e Atividades: Para testar suas habilidades e criatividade.
+Aproveite o conteúdo e sinta-se à vontade para explorar, experimentar e contribuir. Se você tiver dúvidas ou sugestões, estamos aqui para ajudar!</h3>
