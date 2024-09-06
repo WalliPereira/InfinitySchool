@@ -1,0 +1,16 @@
+body { 
+    background-color: whitesmoke;
+}
+
+.fnatic_logo {
+    margin: 16px;
+    height: 36px;
+    width: 43px;
+    padding: 1px;
+}
+
+.fnatic_spam {
+    margin: 16px;
+    font-size: 17px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
