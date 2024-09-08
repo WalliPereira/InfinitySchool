@@ -1,0 +1,22 @@
+Ex01. Faça um programa que peça 2 numeros ao usuário (com o input) e mostre o produto deles (multiplicação).
+ 
+------------------------------------------------------------------------------------------------------------
+
+Ex02. Faça um programa que peça o nome e 3 notas de um aluno, ao final mostre o nome e sua média.
+
+------------------------------------------------------------------------------------------------------------
+
+Ex03. Faça um programa para o calculo de juros, peça o valor inicial, taxa de juros em porcentagem (sem o % e considere que a taxa é ao mês) e quantidade de tempo em meses. Ao final mostre o valor total
+- Formula: total_juros = valor_inicial * taxa * tempo 
+
+------------------------------------------------------------------------------------------------------------
+
+Ex04. Faça um programa que peça a temperatura em celcius e mostre o valor em fahrenheit
+- Formula: tf = tc * 1.8 + 32
+
+------------------------------------------------------------------------------------------------------------
+
+Ex05. Faça um programa que peça um numero, e informe se ele é 
+positivo, negativo ou neutro (igual a zero)
+
+------------------------------------------------------------------------------------------------------------

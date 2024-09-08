@@ -1,0 +1,7 @@
+- Interpretadas x Compiladas
+
+Sobre Python:
+- Alto Nivel
+- Interpretada
+- Tipagem Dinamica
+- Fortemente Tipada 
