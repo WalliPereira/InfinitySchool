@@ -1,0 +1,75 @@
+passa: Inicio, fim e Passo (respectivamente)
+
+#for variavel in range(0,12,2):
+    print(variavel, end=' ')
+
+print('\nFim da contagem')
+
+Somente a repetição
+Quando o começo é 0, o valor do final é a quantidade de repetiçoes
+
+for _ in range(3):
+    print('QualquerCoisa')
+
+Exercicios
+
+
+# Ex01. Faça um programa que faça uma contagem de 1 até 10 utilizando o FOR
+
+for variavel in range(0,11,1):
+    print(variavel)
+
+#Ex02. Faça um programa que faça uma contagem de 10 até 1 utilizando o FOR
+#DICA: o passo deve ser negativo
+
+for variavel in range(10,0,-1):
+    print(variavel)
+
+#Ex03. Faça um programa que peça o inicio, final e passo de uma contagem, ao final mostre a contagem na tela.
+
+inicio = int(input('Digite o inicio da contagem: '))
+final = int(input('Digite o final da contagem: '))
+passo = int(input('Digite o passo da contagem: '))
+
+for variavel in range(inicio,final,passo):
+    print(variavel)
+
+#Ex04. Faça um programa que peça para o usuário 5 numeros utilizando o FOR, ao final mostre a soma dos numeros
+#DICA: Utilize uma variavel acumuladora
+
+soma = 0
+
+for variavel in range (5):
+    numero = int(input(f'Digite um numero {variavel+1} numero: '))
+    soma += numero
+    
+    print(soma)
+
+#Ex05. Faça um programa que peça uma frase para o usuário e ao final mostre quantas vogais tem na frase.
+#DICA: Utilize o FOR para percorrer a string da frase
+
+frase = input("Digite uma frase: ")
+
+contador_vogais = 0
+
+vogais = "aeiouAEIOU"
+
+for caractere in frase:
+    if caractere in vogais:
+        contador_vogais += 1
+
+print(f"A frase contém {contador_vogais} vogais.")
+
+#Ex06. Faça um programa que peça para o usuário o nome de um aluno e 3 notas (utilizando o FOR), ao final mostre a média do aluno
+
+usuario = input('Digite seu nome: ')
+
+somaNota = 0 
+
+for i in range(3):
+    nota = float(input('Digite sua nota:'))
+    somaNota += nota 
+    
+media = somaNota / 3
+    
+print(f'A media do aluno {usuario} é {media}')
