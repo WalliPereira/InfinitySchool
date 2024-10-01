@@ -1,3 +1,5 @@
+/* Puxar a função no DOM para o codigo funcionar.*/
+
 document.getElementById("loginForm").addEventListener("submit", function (event) {
     event.preventDefault();
 
@@ -12,6 +14,7 @@ document.getElementById("loginForm").addEventListener("submit", function (event)
     if (username === "WspZero" && password === "9607") {
         alert("Successful login");
 
+        /* Abaixo crie uma pagina e coloque a hef dela (page002.html) */
         window.location.href = "page002.html";
     } else {
         alert("Username or Password invalid");
