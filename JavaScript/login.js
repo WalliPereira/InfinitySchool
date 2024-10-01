@@ -9,7 +9,7 @@ document.getElementById("loginForm").addEventListener("submit", function (event)
         return;
     }
 
-    if (username === "Formiguinha" && password === "9898") {
+    if (username === "WspZero" && password === "9607") {
         alert("Successful login");
 
         window.location.href = "page002.html";
