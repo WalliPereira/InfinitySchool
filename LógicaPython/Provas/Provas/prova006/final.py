@@ -15,5 +15,5 @@ while tentativas < 3:
         tentativas += 1
 
 if tentativas == 3:
-    print('Acesso bloqueado. Tente novamente mais tarde.')
-    
+    for i in range(3):
+        print('Acesso bloqueado.')
