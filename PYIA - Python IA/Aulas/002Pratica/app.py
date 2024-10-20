@@ -9,5 +9,6 @@ for i in range(1, 4):
     
 dicionario['media'] = (dicionario['nota1']+dicionario['nota2']+dicionario['nota3'])/3
 
+dicionario['situacao'] = 'Aprovado' if dicionario['media'] >= 6 else 'reprovado'
 print(dicionario)
 
