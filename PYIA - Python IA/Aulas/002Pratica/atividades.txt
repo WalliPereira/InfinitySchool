@@ -1,0 +1,33 @@
+# Ex01. Faça um programa onde o usuário deve inserir 5 frutas, ao finalizar a inserção, mostre todas as frutas unicas que foram inseridas. (Remova os Duplicados)
+
+frutas = []
+
+for i in range(5):
+    frutas.append(input('Digite 5 frutas: '))
+    
+print(set(frutas))
+
+# Ex02. Faça um programa que peça o nome, raça e cor de um animal e armazene as informações em um dicionário. Ao final mostre os valores nas chaves do dicionário.
+
+dicionario = {}
+
+dicionario['nome'] = input('Digite um nome: ')
+dicionario['raça'] = input('Digite uma raça: ')
+dicionario['cor'] = input('Digite uma cor: ')
+
+print(dicionario)
+
+# Ex03. Faça um programa que peça o nome, 3 notas de um aluno, e armazene-os em um dicionário, também armazene nesse dicionário a média e a situação do aluno (>= 6 está aprovado, se não reprovado.)
+
+dicionario = {}
+
+dicionario['nome'] = input("Digite seu nome: ")
+
+for i in range(1, 4):
+    dicionario[f'nota{i}'] = float(input(f"Informe a nota {i}: "))
+    
+dicionario['media'] = (dicionario['nota1']+dicionario['nota2']+dicionario['nota3'])/3
+
+print(dicionario)
+
+
