@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+
+.h2 {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.times {
+    display:contents ;
+}
+
+
+.palmeiras {
+    padding: 25px;
+    width: 200px;
+}
+
+.internacional {
+    padding: 25px;
+    width: 200px;
+}
+
+.fluminense {
+    padding: 25px;
+    width: 200px;
+}
+
+.corinthias {
+    padding: 25px;
+    width: 200px;
+}
+
+.p {
+    color: white;
+    font-size: large;
+}
