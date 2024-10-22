@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br" data-contexto="IMC"
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Calculadora IMC</title>
+</head>
+<body>
+    <div class="conteudo__imc">
+        <h1 class="titulo">Calculadora IMC</h1>
+        <label for="peso">Peso (kg):</label>
+        <input type="number" id="peso" placeholder="Digite seu peso" required>
+        <br><br>
+        <label for="altura">Altura (m):</label>
+        <input type="number" id="altura" placeholder="Digite sua altura" required step="0.01">
+        <br><br>
+        <div class="resultado" id="resultado"></div>
+        <button onclick="calcularIMC()">Calcular IMC</button>
+    </div>
+    <footer class="app_footer">
+        <p class="app_footer-text">
+            &copy; 2024 Infinity. Todos os direitos reservados. | Calculadora IMC simples e eficaz
+        </p>
+    </footer>
+    <script src="function.js"></script>
+</body>
+</html>

@@ -1,0 +1,2 @@
+Crie no seu HTML dois inputs do tipo "number" e um botão. Quando clicado, o botão irá chamar uma função que calcula o IMC (Índice de Massa Corporal) e exibe o resultado na tela. 
+Defina uma função que recebe os valores dos inputs (peso e altura), calcula o IMC e exibe o resultado na tela.
