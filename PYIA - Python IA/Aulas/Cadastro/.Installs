@@ -1,0 +1,5 @@
+Para funconar tem que instalar: 
+ pip install flet
+ py -m venv .venv
+
+o codigo por enquanto so entrega o resultado no terminal.
